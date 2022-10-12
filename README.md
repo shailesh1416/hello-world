@@ -1,5 +1,5 @@
 # hello-world
 Getting started with GitHub.
-- This is edited branch of main
+- Hii, this is Shailesh Yadav, a **Computer Science** student.
 
 #### ~ by shailesh yadav
